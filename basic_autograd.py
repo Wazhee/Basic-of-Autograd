@@ -1,3 +1,8 @@
+import numpy as np
+import math
+import torch
+import matplotlib.pyplot as plt
+
 """
 Taylor approximation to sin(x). 
 x: (float) Input value
